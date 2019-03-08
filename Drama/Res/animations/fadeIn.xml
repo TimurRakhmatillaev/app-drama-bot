@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation loop="false">
+    <curve name="alpha" type="float" interpolation="linear">
+        <frame t="0" v="0"/>
+        <frame t="0.5" v="1.0"/>
+    </curve>
+</animation>

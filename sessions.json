@@ -1,0 +1,16 @@
+{
+  "sessions": [
+    {
+      "id": "213303284:213303284",
+      "data": {
+        "state": "playing",
+        "language": "English",
+        "game": "Butler",
+        "chapter": "ep1",
+        "commandCursor": 62,
+        "backgroundMessage": 1350358,
+        "textMessage": 1350359
+      }
+    }
+  ]
+}

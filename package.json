@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-xlsx": "^0.14.1",
+    "telegraf": "^3.27.1",
+    "telegraf-session-local": "^0.0.6"
+  }
+}

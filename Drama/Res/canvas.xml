@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-16"?>
+<canvas w="1136" h="640">
+  <layer name="background" camera="background" influence="1" />
+  <layer name="character" camera="character" influence="1" />
+  <layer name="foreground" camera="foreground" influence="1" />
+  <background as="image" path="bg/black1.jpg" px="0.5" py="0.5" w="1136" h="640" r="1" g="1" b="1" a="1" name="BYAYf" uiname="black1.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/b_kitchen_day.jpg" px="0.5" py="0.5" w="1136" h="757.3333" r="1" g="1" b="1" a="1" name="2jeHz" uiname="b_kitchen_day.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/ballroom.jpg" px="0.5" py="0.5" w="1136" h="639" r="1" g="1" b="1" a="1" name="dZIEW" uiname="ballroom.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/bakery_day.jpg" px="0.5" py="0.5" w="946.6666" h="710" r="1" g="1" b="1" a="1" name="16vnY" uiname="bakery_day.jpg" layer="background" x="568" y="320" scale="1.45" />
+  <background as="image" path="bg/brandon_office_day.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="w8MPG" uiname="brandon_office_day.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/brandon_office_night.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="SLuKd" uiname="brandon_office_night.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/brick_oven.jpg" px="0.5" py="0.5" w="1136" h="852" r="1" g="1" b="1" a="1" name="hgWW9" uiname="brick_oven.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/car1_day.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="wHEse" uiname="car1_day.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/casino.jpg" px="0.5" py="0.5" w="1136" h="757.3333" r="1" g="1" b="1" a="1" name="BJ8xa" uiname="casino.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/casino_private_poker_room.jpg" px="0.5" py="0.5" w="1136" h="757.3333" r="1" g="1" b="1" a="1" name="5GwDR" uiname="casino_private_poker_room.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/countess_manor.jpeg" px="0.5" py="0.5" w="1136" h="710" r="1" g="1" b="1" a="1" name="SI6nt" uiname="countess_manor.jpeg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/countess_manor_frontdoor.jpg" px="0.5" py="0.5" w="1136" h="852" r="1" g="1" b="1" a="1" name="PRoWT" uiname="countess_manor_frontdoor.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/countess_manor_room.png" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="9rqqv" uiname="countess_manor_room.png" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/kitchen_day.jpg" px="0.5" py="0.5" w="946.6666" h="652.4985" r="1" g="1" b="1" a="1" name="Vx8bU" uiname="kitchen_day.jpg" layer="background" x="568" y="320" scale="1.4" />
+  <background as="image" path="bg/lake_pathway_night.jpg" px="0.5" py="0.5" w="1136" h="641.1287" r="1" g="1" b="1" a="1" name="cETS0" uiname="lake_pathway_night.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/lake_night.jpg" px="0.5" py="0.5" w="1422.222" h="800" r="1" g="1" b="1" a="1" name="pPmq4" uiname="lake_night.jpg" layer="background" x="568" y="320" scale="1" />
+  <background as="image" path="bg/lakemiddle_night..jpeg" px="0.5" py="0.5" w="811.4286" h="608.5714" r="1" g="1" b="1" a="1" name="jkLOS" uiname="lakemiddle_night..jpeg" layer="background" x="568" y="320" scale="1.6" />
+  <background as="image" path="bg/topfloor_heliport_day.jpg" px="0.5" py="0.5" w="1136" h="640" r="1" g="1" b="1" a="1" name="j7Xq5" uiname="topfloor_heliport_day.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/pickpoct.jpg" px="0.5" py="0.5" w="959.36" h="640" r="1" g="1" b="1" a="1" name="9DPQC" uiname="pickpoct.jpg" layer="background" x="662.0334" y="315" scale="1" />
+  <character as="image" px="0.5" py="0.5" w="0" h="0" r="1" g="1" b="1" a="1" name="buz43" uiname="grandmother" layer="character" x="-45.86015" y="-35.77738" scale="0.45">
+    <node as="variants" name="59P8L" uiname="color" scale="1">
+      <node as="image" path="tachie/extra/grandma1.png" px="0.5" py="0.5" w="804" h="2048" r="1" g="1" b="1" a="1" name="BCPES" uiname="grandma1.png" x="94.56738" y="426.6385" scale="1" />
+      <node as="image" path="tachie/extra/grandma2.png" px="0.5" py="0.5" w="804" h="2048" r="1" g="1" b="1" a="1" name="14wOn" uiname="grandma2.png" x="94.56738" y="426.6385" scale="1" />
+    </node>
+  </character>
+  <background as="image" path="bg/topfloor_heliport_nt.jpg" px="0.5" py="0.5" w="1136" h="640" r="1" g="1" b="1" a="1" name="7c0b6" uiname="topfloor_heliport_nt.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/lightning.jpg" px="0.5" py="0.5" w="1136" h="852" r="1" g="1" b="1" a="1" name="m6vLv" uiname="lightning.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/helicopter_in_nt.jpg" px="0.5" py="0.5" w="1136" h="757.3333" r="1" g="1" b="1" a="1" name="G1Atl" uiname="helicopter_in_nt.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/hospital_ICU.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="jI9XA" uiname="hospital_ICU.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/hospital_day.jpeg" px="0.5" py="0.5" w="1136" h="852" r="1" g="1" b="1" a="1" name="q5YWB" uiname="hospital_day.jpeg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/hospital_grounds_day..jpeg" px="0.5" py="0.5" w="757.3333" h="568" r="1" g="1" b="1" a="1" name="keCTP" uiname="hospital_grounds_day..jpeg" layer="background" x="568" y="320" scale="1.8" />
+  <background as="image" path="bg/hospital_oncallroom_day.jpeg" px="0.5" py="0.5" w="384.2121" h="288.1591" r="1" g="1" b="1" a="1" name="KHFaP" uiname="hospital_oncallroom_day.jpeg" layer="background" x="568" y="320" scale="3.9567" />
+  <background as="image" path="bg/hospital_privatelounge_day.jpg" px="0.5" py="0.5" w="2844.444" h="1600" r="1" g="1" b="1" a="1" name="c7NK3" uiname="hospital_privatelounge_day.jpg" layer="background" x="568" y="320" scale="0.5" />
+  <background as="image" path="bg/rockgod.jpg" px="0.5" py="0.5" w="1136" h="689.7913" r="1" g="1" b="1" a="1" name="PzRmb" uiname="rockgod.jpg" layer="background" x="340.3397" y="278.1895" scale="1.4" />
+  <background as="image" path="bg/masion_entrance.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="Mqi0N" uiname="masion_entrance.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/mc_suite_ntlt.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="xBMKv" uiname="mc_suite_ntlt.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/mc_room_ntlt.jpeg" px="0.5" py="0.5" w="1136" h="757.3333" r="1" g="1" b="1" a="1" name="FO0y9" uiname="mc_room_ntlt.jpeg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/outside the casino.jpeg" px="0.5" py="0.5" w="1255.95" h="640" r="1" g="1" b="1" a="1" name="jG0UV" uiname="outside the casino.jpeg" layer="background" x="568" y="320" scale="1" />
+  <background as="image" path="bg/dressroom.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="7QH7T" uiname="dressroom.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/mc_room_ntlt.jpeg" px="0.5" py="0.5" w="1136" h="757.3333" r="1" g="1" b="1" a="1" name="bPdTa" uiname="mc_room_ntlt.jpeg" layer="background" x="568" y="320" scale="1.3" />
+  <background as="image" path="bg/mc_room_day.jpeg" px="0.5" py="0.5" w="1136" h="757.3333" r="1" g="1" b="1" a="1" name="tatfX" uiname="mc_room_day.jpeg" layer="background" x="568" y="320" scale="1.3" />
+  <background as="image" path="bg/mc_suite_day.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="pGTty" uiname="mc_suite_day.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/mc_livingroom_day.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="ohsnH" uiname="mc_livingroom_day.jpg" layer="background" x="568" y="320" scale="1.4" />
+  <background as="image" path="bg/mc_livingroom_night.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="BQ2p2" uiname="mc_livingroom_night.jpg" layer="background" x="568" y="320" scale="1.4" />
+  <background as="image" path="bg/sittingroom_day.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="8wJiC" uiname="sittingroom_day.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/sky_moonnt.jpg" px="0.5" py="0.5" w="1136" h="640" r="1" g="1" b="1" a="1" name="e3Ayu" uiname="sky_moonnt.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/southentrance_mansion_night.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="qs6KC" uiname="southentrance_mansion_night.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/terrace_night.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="h8zWP" uiname="terrace_night.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/bridge_day.jpg" px="0.5" py="0.5" w="1136" h="640" r="1" g="1" b="1" a="1" name="MY4Va" uiname="bridge_day.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/cabin_day.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="iI9Ci" uiname="cabin_day.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/cabin_night.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="jPvja" uiname="cabin_night.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/cabin_pots.jpg" px="0.5" py="0.5" w="1032.727" h="580.9091" r="1" g="1" b="1" a="1" name="QZZa9" uiname="cabin_pots.jpg" layer="background" x="568" y="320" scale="1.3" />
+  <background as="image" path="bg/dancing_hall.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="MxjNJ" uiname="dancing_hall.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/pathway_day.jpg" px="0.5" py="0.5" w="948.1481" h="533.3333" r="1" g="1" b="1" a="1" name="547Kz" uiname="pathway_day.jpg" layer="background" x="568" y="320" scale="1.3" />
+  <background as="image" path="bg/mc_room_d_eve.jpeg" px="0.5" py="0.5" w="1136" h="757.3333" r="1" g="1" b="1" a="1" name="ZpXAD" uiname="mc_room_d_eve.jpeg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/rouka_day.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="AnP7q" uiname="rouka_day.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/mc_room_eve.jpeg" px="0.5" py="0.5" w="1136" h="757.3333" r="1" g="1" b="1" a="1" name="df3il" uiname="mc_room_eve.jpeg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/dining_ntlt.jpg" px="0.5" py="0.5" w="948.1481" h="533.3333" r="1" g="1" b="1" a="1" name="JpEEP" uiname="dining_ntlt.jpg" layer="background" x="568" y="320" scale="1.4" />
+  <background as="image" path="bg/rouka2_ntlt.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="nDHkm" uiname="rouka2_ntlt.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/seymourestate_southlawn_day.jpg" px="0.5" py="0.5" w="1920" h="1080" r="1" g="1" b="1" a="1" name="aOZVN" uiname="seymourestate_southlawn_day.jpg" layer="background" x="-97.79372" y="528.9381" scale="1" />
+  <background as="image" path="bg/garden_day.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="hqfLc" uiname="garden_day.jpg" layer="background" x="568" y="320" scale="1.3" />
+  <background as="image" path="bg/gazebo_night..jpeg" px="0.5" py="0.5" w="1262.222" h="788.8889" r="1" g="1" b="1" a="1" name="FE7jO" uiname="gazebo_night..jpeg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/grand_auditorium_day.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="oyjth" uiname="grand_auditorium_day.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/grandmother_mcbedroom_night.jpg" px="0.5" py="0.5" w="2560" h="1650" r="1" g="1" b="1" a="1" name="MP0pL" uiname="grandmother_MCbedroom_night.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/grandmother_diningroom_night.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="zjnpN" uiname="grandmother_diningroom_night.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/helicopter_flies_mountain.jpg" px="0.5" py="0.5" w="6941" h="4306" r="1" g="1" b="1" a="1" name="JyoTe" uiname="helicopter_flies_mountain.jpg" layer="background" x="399.4521" y="336.559" scale="0.3" />
+  <background as="image" path="bg/pool_day.jpeg" px="0.5" py="0.5" w="1136" h="852" r="1" g="1" b="1" a="1" name="tgmed" uiname="pool_day.jpeg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/in_pool.jpeg" px="0.5" py="0.5" w="1136" h="852" r="1" g="1" b="1" a="1" name="aIPGl" uiname="in_pool.jpeg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/portrait.jpg" px="0.5" py="0.5" w="1280" h="960" r="1" g="1" b="1" a="1" name="k4ayL" uiname="portrait.jpeg" layer="background" x="557.1141" y="427.1191" scale="1" />
+  <background as="image" path="bg/potteryworkshop_night.jpg" px="0.5" py="0.5" w="946.6667" h="631.1111" r="1" g="1" b="1" a="1" name="Ksleu" uiname="potteryworkshop_night.jpg" layer="background" x="568" y="320" scale="1.3" />
+  <background as="image" path="bg/ramen.jpg" px="0.5" py="0.5" w="640" h="640" r="1" g="1" b="1" a="1" name="l6xMZ" uiname="ramen.jpg" layer="background" x="568" y="320" scale="1">
+    <node as="scroll" speedx="0" speedy="-0.1" perspx="-0.216" perspy="0.297" scalex="1" scaley="1" name="ByBIe" uiname="new" scale="1">
+      <node as="image" path="scroll_sozai/kirakira.png" px="0.5" py="0.5" w="2000" h="1841" r="1" g="1" b="1" a="1" name="s7eBi" uiname="new" scale="1" />
+    </node>
+  </background>
+  <background as="image" path="bg/main_hall_day.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="QZDNU" uiname="main_hall_day.jpg" layer="background" x="575.8859" y="376.1566" scale="1.2" />
+  <background as="image" path="bg/mainstreet_day.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="kNezs" uiname="mainstreet_day.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/mainstreet_night.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="y1SmQ" uiname="mainstreet_night.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/densya_nt.jpg" px="0.5" py="0.5" w="1136" h="640" r="1" g="1" b="1" a="1" name="wUZ4f" uiname="densya_nt.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/merchant_street_nt.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="PfhVp" uiname="merchant_street_nt.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/merchant2_street_nt.jpeg" px="0.5" py="0.5" w="946.6666" h="710" r="1" g="1" b="1" a="1" name="XS4kn" uiname="merchant2_street_nt.jpeg" layer="background" x="568" y="320" scale="1.4" />
+  <background as="image" path="bg/car_nt.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="KMggT" uiname="car_nt.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/dance_club_in.jpg" px="0.5" py="0.5" w="1136" h="1136" r="1" g="1" b="1" a="1" name="Bx5eK" uiname="dance_club_in.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/dance_club_out.jpg" px="0.5" py="0.5" w="1136" h="1136" r="1" g="1" b="1" a="1" name="8wjYY" uiname="dance_club_out.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/car2_nt.jpg" px="0.5" py="0.5" w="1137.778" h="640" r="1" g="1" b="1" a="1" name="APkf6" uiname="car2_nt.jpg" layer="background" x="568" y="320" scale="1.2" />
+  <background as="image" path="bg/car3_BulletsTownCar.jpg" px="0.5" py="0.5" w="1009" h="809" r="1" g="1" b="1" a="1" name="1khgU" uiname="car3_BulletsTownCar.jpg" layer="background" x="506.9371" y="400.9989" scale="1.2" />
+  <anchor name="lV0Zg" uiname="ca_closeup_right" x="916" y="350" scale="1.2" />
+  <anchor name="yn8Aj" uiname="ca_closeup" x="568" y="350" scale="1.2" />
+  <anchor name="UioSS" uiname="ca_closeup_left" x="200" y="350" scale="1.2" />
+  <anchor name="TiGt7" uiname="ca_move_left4" x="100" y="320" scale="1" />
+  <anchor name="MyVJL" uiname="ca_move_left3" x="200" y="320" scale="1" />
+  <anchor name="OxiJh" uiname="ca_move_left2" x="300" y="320" scale="1" />
+  <anchor name="gUG28" uiname="ca_move_left1" x="400" y="320" scale="1" />
+  <anchor name="mQdFU" uiname="ca_center" x="568" y="320" scale="1" />
+  <anchor name="fAOlz" uiname="ca_move_right1" x="716" y="320" scale="1" />
+  <anchor name="lhexg" uiname="ca_move_right2" x="816" y="320" scale="1" />
+  <anchor name="JBXKi" uiname="ca_move_right3" x="916" y="320" scale="1" />
+  <anchor name="bprrk" uiname="ca_move_right4" x="1016" y="320" scale="1" />
+  <anchor name="hYuWO" uiname="left4" x="100" scale="1" />
+  <anchor name="lXTi4" uiname="left3" x="200" scale="1" />
+  <anchor name="eKrAe" uiname="left2" x="300" scale="1" />
+  <anchor name="ucL5w" uiname="left1" x="400" scale="1" />
+  <anchor name="Rj5ul" uiname="center_left" x="522" scale="1" />
+  <anchor name="jmiga" uiname="center" x="568" scale="1" />
+  <anchor name="ySabo" uiname="center_right" x="623" scale="1" />
+  <anchor name="0mKH0" uiname="right1" x="716" scale="1" />
+  <anchor name="0ZZH3" uiname="right2" x="816" scale="1" />
+  <anchor name="PFA0v" uiname="right3" x="916" scale="1" />
+  <anchor name="OzyFa" uiname="right4" x="1016" scale="1" />
+  <anchor name="92rCA" uiname="close" x="568" y="-162" scale="1.3" />
+  <anchor name="F4WuO" uiname="s-left2" x="300" y="138" scale="0.8" />
+  <anchor name="srXIL" uiname="s-left1" x="472" y="138" scale="0.8" />
+  <anchor name="ZxRx8" uiname="s-center" x="568" y="138" scale="0.8" />
+  <anchor name="ORS2t" uiname="s-right1" x="658" y="138" scale="0.8" />
+  <anchor name="AGGMk" uiname="s-right2" x="816" y="138" scale="0.8" />
+  <character name="rZR0A" uiname="Stefan" layer="character" x="-20.55287" y="154.667" scale="0.45">
+    <node as="variants" name="EFwJ4" uiname="clothes" x="-5.368832" y="124.1062" scale="1">
+      <node name="990nZ" uiname="butler" scale="1">
+        <node as="variants" name="v2oCa" uiname="expressions" scale="1">
+          <node as="image" path="tachie/stefan/akire.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="PDSpf" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/stefan/akire2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="m89Nm" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/stefan/aseri.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="FHEQZ" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/stefan/ikari.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="eroDO" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/stefan/ikari2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="VkFgS" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/stefan/ikari3.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="dk5jt" uiname="ikari3.png" scale="1" />
+          <node as="image" path="tachie/stefan/kanasimi.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="sHAd0" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/stefan/kanasimi2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="Esxzw" uiname="kanasimi2.png" scale="1" />
+          <node as="image" path="tachie/stefan/normal.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="Gs36f" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/stefan/odoroki.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="2lRdf" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/stefan/raku.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="vbZbp" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/stefan/tere.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="d5vBO" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/stefan/tere2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="fXkry" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/stefan/yorokobi.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="t4L4L" uiname="yorokobi.png" scale="1" />
+          <node as="image" path="tachie/stefan/yorokobi2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="rXVWt" uiname="yorokobi2.png" scale="1" />
+        </node>
+      </node>
+      <node name="TPvZ6" uiname="normal" scale="1">
+        <node as="variants" name="02Fvi" uiname="expressions" scale="1">
+          <node as="image" path="tachie/stefan2/akire.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="N1U5U" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/stefan2/akire2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="94Gib" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/stefan2/aseri.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="J1a1g" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/stefan2/ikari.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="NpvQE" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/stefan2/ikari2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="phW3a" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/stefan2/ikari3.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="ULgOl" uiname="ikari3.png" scale="1" />
+          <node as="image" path="tachie/stefan2/kanasimi.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="tYa8v" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/stefan2/kanasimi2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="S8Rzl" uiname="kanasimi2.png" scale="1" />
+          <node as="image" path="tachie/stefan2/normal.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="3X7Es" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/stefan2/odoroki.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="EYxsa" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/stefan2/raku.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="6fGB5" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/stefan2/tere.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="EaU6w" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/stefan2/tere2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="ZqHMy" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/stefan2/yorokobi.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="29nZO" uiname="yorokobi.png" scale="1" />
+          <node as="image" path="tachie/stefan2/yorokobi2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="LLFal" uiname="yorokobi2.png" scale="1" />
+        </node>
+      </node>
+      <node name="LjQuV" uiname="nude" scale="1">
+        <node as="variants" name="LqPr7" uiname="expressions" scale="1">
+          <node as="image" path="tachie/stefan3/akire.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="h4NUn" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/stefan3/akire2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="LwOkf" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/stefan3/aseri.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="0BTOs" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/stefan3/ikari.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="Tupsu" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/stefan3/ikari2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="sAhfb" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/stefan3/ikari3.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="Hgy3M" uiname="ikari3.png" scale="1" />
+          <node as="image" path="tachie/stefan3/kanasimi.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="6ck5L" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/stefan3/kanasimi2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="iMBzT" uiname="kanasimi2.png" scale="1" />
+          <node as="image" path="tachie/stefan3/normal.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="G8BHi" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/stefan3/odoroki.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="zKTmW" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/stefan3/raku.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="HvhTC" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/stefan3/tere.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="34zao" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/stefan3/tere2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="wXcSy" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/stefan3/yorokobi.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="aaygP" uiname="yorokobi.png" scale="1" />
+          <node as="image" path="tachie/stefan3/yorokobi2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="cSNBX" uiname="yorokobi2.png" scale="1" />
+        </node>
+      </node>
+      <node name="oxOlU" uiname="swimwear" scale="1">
+        <node as="variants" name="xEcO5" uiname="expressions" scale="1">
+          <node as="image" path="tachie/stefan4/akire.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="daw2q" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/stefan4/akire2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="Uyl1N" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/stefan4/aseri.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="fEFMP" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/stefan4/ikari.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="xjVzK" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/stefan4/ikari2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="1gVjU" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/stefan4/ikari3.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="fpFO2" uiname="ikari3.png" scale="1" />
+          <node as="image" path="tachie/stefan4/kanasimi.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="E3Qq4" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/stefan4/kanasimi2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="zOses" uiname="kanasimi2.png" scale="1" />
+          <node as="image" path="tachie/stefan4/normal.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="xEmYj" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/stefan4/odoroki.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="AJdMe" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/stefan4/raku.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="5Vgjk" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/stefan4/tere.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="eiiWS" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/stefan4/tere2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="n2ReK" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/stefan4/yorokobi.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="FU71M" uiname="yorokobi.png" scale="1" />
+          <node as="image" path="tachie/stefan4/yorokobi2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="jQJwt" uiname="yorokobi2.png" scale="1" />
+        </node>
+      </node>
+      <node name="DeFNq" uiname="tanktop" scale="1">
+        <node as="variants" name="v5riZ" uiname="expressions" scale="1">
+          <node as="image" path="tachie/stefan5/yorokobi2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="CBTRY" uiname="yorokobi2.png" scale="1" />
+          <node as="image" path="tachie/stefan5/akire.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="5WA8b" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/stefan5/akire2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="xBEFd" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/stefan5/aseri.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="YFf47" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/stefan5/ikari.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="765iJ" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/stefan5/ikari2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="09YMf" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/stefan5/ikari3.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="clDY6" uiname="ikari3.png" scale="1" />
+          <node as="image" path="tachie/stefan5/kanasimi.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="MWq6w" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/stefan5/kanasimi2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="PbhLJ" uiname="kanasimi2.png" scale="1" />
+          <node as="image" path="tachie/stefan5/normal.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="bDGji" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/stefan5/odoroki.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="ExXsZ" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/stefan5/raku.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="7Agcl" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/stefan5/tere.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="1k6SP" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/stefan5/tere2.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="4nDsv" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/stefan5/yorokobi.png" px="0.5" py="0.5" w="903" h="2048" r="1" g="1" b="1" a="1" name="kB8UY" uiname="yorokobi.png" scale="1" />
+        </node>
+      </node>
+    </node>
+  </character>
+  <character name="qTpVb" uiname="Bullet" layer="character" x="0.5310692" y="190.0427" scale="0.45">
+    <node as="variants" default="butler" name="hvntt" uiname="clothes" y="5.471734" scale="1">
+      <node name="QWg54" uiname="butler" scale="1">
+        <node as="variants" default="normal.png" name="tFCdy" uiname="expressions" scale="1">
+          <node as="image" path="tachie/bullet/akire.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="bSWx1" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/bullet/akire2.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="lUEy2" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/bullet/aseri.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="qf3D9" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/bullet/ikari.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="MzwQr" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/bullet/ikari2.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="Ocfet" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/bullet/kanasimi.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="KX8pU" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/bullet/normal.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="xW7BT" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/bullet/odoroki.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="gQlZG" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/bullet/raku.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="AdTsc" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/bullet/tere.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="Sv9lw" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/bullet/tere2.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="GZfhN" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/bullet/yorokobi.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="Im5Bx" uiname="yorokobi.png" scale="1" />
+          <node as="image" path="tachie/bullet/yorokobi02.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="VKFah" uiname="yorokobi2.png" scale="1" />
+        </node>
+      </node>
+      <node name="Ha2EL" uiname="normal" scale="1">
+        <node as="variants" name="e0CQH" uiname="expressions" scale="1">
+          <node as="image" path="tachie/bullet2/akire.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="akoES" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/bullet2/akire2.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="C0fuY" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/bullet2/aseri.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="cs92i" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/bullet2/ikari.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="9r16P" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/bullet2/ikari2.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="U6YtV" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/bullet2/kanasimi.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="YItkQ" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/bullet2/normal.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="8nnuH" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/bullet2/odoroki.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="B2YIU" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/bullet2/raku.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="gqCyt" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/bullet2/tere.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="3KFO0" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/bullet2/tere2.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="Xhwvq" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/bullet2/yorokobi.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="Wim3U" uiname="yorokobi.png" scale="1" />
+          <node as="image" path="tachie/bullet2/yorokobi2.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="0ZihI" uiname="yorokobi2.png" scale="1" />
+        </node>
+      </node>
+      <node name="3qFSo" uiname="nude" scale="1">
+        <node as="variants" name="EMjHw" uiname="expressions" scale="1">
+          <node as="image" path="tachie/bullet3/akire.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="nUnq9" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/bullet3/akire2.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="JOxIL" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/bullet3/aseri.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="39U4D" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/bullet3/ikari.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="Yi34y" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/bullet3/ikari2.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="RFYBv" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/bullet3/kanasimi.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="PjsbW" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/bullet3/normal.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="SFZGs" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/bullet3/odoroki.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="LEwPv" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/bullet3/raku.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="j8Rri" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/bullet3/tere.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="6Ao1V" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/bullet3/tere2.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="3nmuG" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/bullet3/yorokobi.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="Yhbzs" uiname="yorokobi.png" scale="1" />
+          <node as="image" path="tachie/bullet3/yorokobi2.png" px="0.5" py="0.5" w="1033" h="2048" r="1" g="1" b="1" a="1" name="RMuYq" uiname="yorokobi2.png" scale="1" />
+        </node>
+      </node>
+    </node>
+  </character>
+  <character name="AVaYT" uiname="Kendra" layer="character" x="8.027677" y="-186.0264" scale="0.42">
+    <node as="variants" name="alNFB" uiname="expressions" x="-43.18081" y="1009.633" scale="1">
+      <node as="image" path="tachie/kendra/akire.png" px="0.5" py="0.5" w="1158" h="2048" r="1" g="1" b="1" a="1" name="ZCifq" uiname="akire.png" scale="1" />
+      <node as="image" path="tachie/kendra/aseri.png" px="0.5" py="0.5" w="1158" h="2048" r="1" g="1" b="1" a="1" name="7Khbq" uiname="aseri.png" scale="1" />
+      <node as="image" path="tachie/kendra/ikari.png" px="0.5" py="0.5" w="1158" h="2048" r="1" g="1" b="1" a="1" name="KzN32" uiname="ikari.png" scale="1" />
+      <node as="image" path="tachie/kendra/kanasimi.png" px="0.5" py="0.5" w="1158" h="2048" r="1" g="1" b="1" a="1" name="4wLwl" uiname="kanasimi.png" scale="1" />
+      <node as="image" path="tachie/kendra/normal.png" px="0.5" py="0.5" w="1158" h="2048" r="1" g="1" b="1" a="1" name="j4QET" uiname="normal.png" scale="1" />
+      <node as="image" path="tachie/kendra/odoroki.png" px="0.5" py="0.5" w="1158" h="2048" r="1" g="1" b="1" a="1" name="DgFhL" uiname="odoroki.png" scale="1" />
+      <node as="image" path="tachie/kendra/raku.png" px="0.5" py="0.5" w="1158" h="2048" r="1" g="1" b="1" a="1" name="Uy4DX" uiname="raku.png" scale="1" />
+      <node as="image" path="tachie/kendra/tere.png" px="0.5" py="0.5" w="1158" h="2048" r="1" g="1" b="1" a="1" name="AHrCG" uiname="tere.png" scale="1" />
+      <node as="image" path="tachie/kendra/yorokobi.png" px="0.5" py="0.5" w="1158" h="2048" r="1" g="1" b="1" a="1" name="lpW9I" uiname="yorokobi.png" scale="1" />
+    </node>
+  </character>
+  <character name="lyB1J" uiname="Nigel" layer="character" x="-6.572577" y="207.584" scale="0.45">
+    <node as="variants" name="agfUZ" uiname="clothes" scale="1">
+      <node name="qa1UF" uiname="butler" scale="1">
+        <node as="variants" name="myakl" uiname="expressions" scale="1">
+          <node as="image" path="tachie/nigel/akire.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="rJfnw" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/nigel/akire2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="zpOud" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/nigel/aseri.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="ZdHJK" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/nigel/aseri2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="DxImn" uiname="aseri2.png" scale="1" />
+          <node as="image" path="tachie/nigel/ikari.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="44T9X" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/nigel/ikari2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="cGtqS" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/nigel/kanasimi.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="ozNi7" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/nigel/kanasimi2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="3T2K4" uiname="kanasimi2.png" scale="1" />
+          <node as="image" path="tachie/nigel/normal.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="HR46D" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/nigel/odoroki.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="KUYfl" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/nigel/raku.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="664Ey" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/nigel/raku2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="bbPba" uiname="raku2.png" scale="1" />
+          <node as="image" path="tachie/nigel/tere.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="1yIZW" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/nigel/tere2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="6n4rH" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/nigel/yorokobi.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="1aJjw" uiname="yorokobi.png" scale="1" />
+          <node as="image" path="tachie/nigel/yorokobi2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="O26qW" uiname="yorokobi2.png" scale="1" />
+        </node>
+      </node>
+      <node name="MLeU2" uiname="normal" scale="1">
+        <node as="variants" name="ypwy2" uiname="expressions" scale="1">
+          <node as="image" path="tachie/nigel2/akire.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="j0gPe" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/nigel2/akire2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="4H1V0" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/nigel2/aseri.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="XpUrj" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/nigel2/aseri2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="9lGr1" uiname="aseri2.png" scale="1" />
+          <node as="image" path="tachie/nigel2/ikari.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="tu37c" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/nigel2/ikari2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="hAgzo" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/nigel2/kanasimi.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="xNlST" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/nigel2/kanasimi2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="4fJHu" uiname="kanasimi2.png" scale="1" />
+          <node as="image" path="tachie/nigel2/normal.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="GIldS" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/nigel2/odoroki.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="Lya53" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/nigel2/raku.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="5OGgf" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/nigel2/raku2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="ejE9E" uiname="raku2.png" scale="1" />
+          <node as="image" path="tachie/nigel2/tere.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="5P1On" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/nigel2/tere2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="m8z03" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/nigel2/yorokobi.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="3UQZX" uiname="yorokobi.png" scale="1" />
+          <node as="image" path="tachie/nigel2/yorokobi2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="UFVt1" uiname="yorokobi2.png" scale="1" />
+        </node>
+      </node>
+      <node name="wMNTu" uiname="baker" scale="1">
+        <node as="variants" name="fdiEY" uiname="expressions" scale="1">
+          <node as="image" path="tachie/nigel3/akire.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="UmZcn" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/nigel3/akire2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="7p6R7" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/nigel3/aseri.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="o8zES" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/nigel3/aseri2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="5apXE" uiname="aseri2.png" scale="1" />
+          <node as="image" path="tachie/nigel3/ikari.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="KaQly" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/nigel3/ikari2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="cKFMD" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/nigel3/kanasimi.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="TMazJ" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/nigel3/kanasimi2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="UV8Kj" uiname="kanasimi2.png" scale="1" />
+          <node as="image" path="tachie/nigel3/normal.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="iTc6B" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/nigel3/odoroki.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="5VV9e" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/nigel3/raku.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="Dzkd4" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/nigel3/raku2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="bjqC1" uiname="raku2.png" scale="1" />
+          <node as="image" path="tachie/nigel3/tere.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="DvK5a" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/nigel3/tere2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="8yuRw" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/nigel3/yorokobi.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="EUsSp" uiname="yorokobi.png" scale="1" />
+          <node as="image" path="tachie/nigel3/yorokobi2.png" px="0.5" py="0.5" w="1000" h="2048" r="1" g="1" b="1" a="1" name="Gpqiq" uiname="yorokobi2.png" scale="1" />
+        </node>
+      </node>
+    </node>
+  </character>
+  <character name="BGlo4" uiname="Zachary" layer="character" x="5.824871" y="207.7347" scale="0.45">
+    <node as="variants" name="GpMSv" uiname="clothes" scale="1">
+      <node name="aWpwd" uiname="butler" scale="1">
+        <node as="variants" name="vjsH4" uiname="expressions" scale="1">
+          <node as="image" path="tachie/zachary/akire.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="XemnF" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/zachary/akire2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="Wzsi4" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/zachary/akire3.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="M8yn0" uiname="akire3.png" scale="1" />
+          <node as="image" path="tachie/zachary/aseri.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="osuIu" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/zachary/aseri2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="u1C7E" uiname="aseri2.png" scale="1" />
+          <node as="image" path="tachie/zachary/ikari.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="pwm8l" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/zachary/ikari2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="PuhSI" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/zachary/ikari3.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="oL7GS" uiname="ikari3.png" scale="1" />
+          <node as="image" path="tachie/zachary/kanasimi.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="siuSo" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/zachary/kanasimi2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="enwdS" uiname="kanasimi2.png" scale="1" />
+          <node as="image" path="tachie/zachary/normal.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="644tz" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/zachary/odoroki.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="33kuz" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/zachary/raku.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="IJh9Y" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/zachary/tere.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="mwDS8" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/zachary/tere2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="bWjWG" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/zachary/tere3.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="3wdFh" uiname="tere3.png" scale="1" />
+          <node as="image" path="tachie/zachary/yorokobi.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="sP8Oz" uiname="yorokobi.png" scale="1" />
+        </node>
+      </node>
+      <node name="a7lJa" uiname="normal" scale="1">
+        <node as="variants" name="xZQhg" uiname="expressions" scale="1">
+          <node as="image" path="tachie/zachary2/akire.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="Bf882" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/zachary2/akire2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="69V18" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/zachary2/akire3.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="2ngb7" uiname="akire3.png" scale="1" />
+          <node as="image" path="tachie/zachary2/aseri.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="CszKr" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/zachary2/aseri2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="THROp" uiname="aseri2.png" scale="1" />
+          <node as="image" path="tachie/zachary2/ikari.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="ptPsh" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/zachary2/ikari2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="nDUSu" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/zachary2/ikari3.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="tMxt9" uiname="ikari3.png" scale="1" />
+          <node as="image" path="tachie/zachary2/kanasimi.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="998v9" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/zachary2/kanasimi2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="0Jw2O" uiname="kanasimi2.png" scale="1" />
+          <node as="image" path="tachie/zachary2/normal.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="kZdps" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/zachary2/odoroki.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="jFuT5" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/zachary2/raku.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="9y2jJ" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/zachary2/tere.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="RTo4Z" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/zachary2/tere2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="2sKbO" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/zachary2/tere3.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="QpQp7" uiname="tere3.png" scale="1" />
+          <node as="image" path="tachie/zachary2/yorokobi.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="rfcys" uiname="yorokobi.png" scale="1" />
+        </node>
+      </node>
+      <node name="TNdTQ" uiname="nude" scale="1">
+        <node as="variants" name="pL1iS" uiname="expressions" scale="1">
+          <node as="image" path="tachie/zachary3/akire.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="LxkDx" uiname="akire.png" scale="1" />
+          <node as="image" path="tachie/zachary3/akire2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="ZHXRM" uiname="akire2.png" scale="1" />
+          <node as="image" path="tachie/zachary3/akire3.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="UPz7W" uiname="akire3.png" scale="1" />
+          <node as="image" path="tachie/zachary3/aseri.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="NsqwT" uiname="aseri.png" scale="1" />
+          <node as="image" path="tachie/zachary3/aseri2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="FlorT" uiname="aseri2.png" scale="1" />
+          <node as="image" path="tachie/zachary3/ikari.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="xWKR3" uiname="ikari.png" scale="1" />
+          <node as="image" path="tachie/zachary3/ikari2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="TS0Op" uiname="ikari2.png" scale="1" />
+          <node as="image" path="tachie/zachary3/ikari3.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="Z15Hd" uiname="ikari3.png" scale="1" />
+          <node as="image" path="tachie/zachary3/kanasimi.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="BLXv7" uiname="kanasimi.png" scale="1" />
+          <node as="image" path="tachie/zachary3/kanasimi2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="1LkRP" uiname="kanasimi2.png" scale="1" />
+          <node as="image" path="tachie/zachary3/normal.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="xUKu9" uiname="normal.png" scale="1" />
+          <node as="image" path="tachie/zachary3/odoroki.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="87zDb" uiname="odoroki.png" scale="1" />
+          <node as="image" path="tachie/zachary3/raku.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="xPu6Y" uiname="raku.png" scale="1" />
+          <node as="image" path="tachie/zachary3/tere.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="PDryk" uiname="tere.png" scale="1" />
+          <node as="image" path="tachie/zachary3/tere2.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="FBicq" uiname="tere2.png" scale="1" />
+          <node as="image" path="tachie/zachary3/tere3.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="OpPYt" uiname="tere3.png" scale="1" />
+          <node as="image" path="tachie/zachary3/yorokobi.png" px="0.5" py="0.5" w="908" h="2048" r="1" g="1" b="1" a="1" name="gs8Pc" uiname="yorokobi.png" scale="1" />
+        </node>
+      </node>
+    </node>
+  </character>
+  <character as="image" path="tachie/extra/brandon.png" px="0.5" py="0.5" w="715" h="2048" r="1" g="1" b="1" a="1" name="uSEP2" uiname="Brandon" layer="character" x="-1.770449" y="146.6315" scale="0.45" />
+  <anchor name="6YtEv" uiname="close_left2" x="300" y="-162" scale="1.3" />
+  <anchor name="JGeik" uiname="close_right2" x="816" y="-162" scale="1.3" />
+  <character as="image" px="0.5" py="0.5" w="0" h="0" r="1" g="1" b="1" a="1" name="uktUX" uiname="DJ Akihiro" layer="character" x="-275.7276" y="22.00855" scale="0.45">
+    <node as="variants" default="akihiro1.png" name="QCitt" uiname="pose" scale="1">
+      <node as="image" path="tachie/extra/akihiro1.png" px="0.5" py="0.5" w="879" h="2048" r="1" g="1" b="1" a="1" name="MGgTH" uiname="akihiro1.png" x="568" y="320" scale="1" />
+      <node as="image" path="tachie/extra/akihiro2.png" px="0.5" py="0.5" w="879" h="2048" r="1" g="1" b="1" a="1" name="Yvdtt" uiname="akihiro2.png" x="568" y="320" scale="1" />
+    </node>
+  </character>
+  <character as="image" path="tachie/extra/bouncer.png" px="0.5" py="0.5" w="890" h="2048" r="1" g="1" b="1" a="1" name="Cq43Y" uiname="bouncer.png" layer="character" x="-0.1319793" y="166.3783" scale="0.45" />
+  <character as="image" path="tachie/extra/callista.png" px="0.5" py="0.5" w="890" h="2048" r="1" g="1" b="1" a="1" name="CS2hO" uiname="callista.png" layer="character" x="-19.84598" y="168.3133" scale="0.45" />
+  <character as="image" path="tachie/extra/contessa.png" px="0.5" py="0.5" w="890" h="2048" r="1" g="1" b="1" a="1" name="heP4v" uiname="contessa.png" layer="character" x="2.590925" y="184.5917" scale="0.45" />
+  <character as="image" path="tachie/extra/dealer.png" px="0.5" py="0.5" w="1029" h="2048" r="1" g="1" b="1" a="1" name="BrP4V" uiname="dealer.png" layer="character" y="166.0924" scale="0.45" />
+  <character as="image" path="tachie/extra/doctor.png" px="0.5" py="0.5" w="746" h="2048" r="1" g="1" b="1" a="1" name="fES3U" uiname="doctor.png" layer="character" x="5.489177" y="149.2076" scale="0.45" />
+  <character as="image" path="tachie/extra/jaxon.png" px="0.5" py="0.5" w="1123" h="2048" r="1" g="1" b="1" a="1" name="WwzOd" uiname="jaxon.png" layer="character" x="61.24705" y="195.5937" scale="0.45" />
+  <character as="image" path="tachie/extra/julien.png" px="0.5" py="0.5" w="890" h="2048" r="1" g="1" b="1" a="1" name="QUQfm" uiname="julien.png" layer="character" x="0.2369281" y="159.2919" scale="0.45" />
+  <character as="image" path="tachie/extra/male_nurse.png" px="0.5" py="0.5" w="746" h="2048" r="1" g="1" b="1" a="1" name="Nq5D6" uiname="male_nurse.png" layer="character" x="3.283839" y="148.3724" scale="0.45" />
+  <character as="image" path="tachie/extra/photographer.png" px="0.5" py="0.5" w="890" h="2048" r="1" g="1" b="1" a="1" name="cf3U1" uiname="photographer.png" layer="character" x="-1.451133" y="142.0489" scale="0.45" />
+  <character as="image" path="tachie/extra/shareholder.png" px="0.5" py="0.5" w="894" h="2048" r="1" g="1" b="1" a="1" name="YZigq" uiname="shareholder.png" layer="character" x="16.15994" y="217.7243" scale="0.45" />
+  <character as="image" path="tachie/extra/sophie.png" px="0.5" py="0.5" w="1012" h="2048" r="1" g="1" b="1" a="1" name="PxSes" uiname="sophie.png" layer="character" x="18.29074" y="157.4758" scale="0.45" />
+  <node as="image" path="objects/box.png" px="0.5" py="0.5" w="508.2462" h="519.2766" r="1" g="1" b="1" a="1" name="DKP4U" uiname="box.png" layer="foreground" x="0.2148547" y="407.9756" scale="0.7" />
+  <character as="image" path="tachie/extra/emcee.png" px="0.5" py="0.5" w="435" h="1011" r="1" g="1" b="1" a="1" name="vCDzE" uiname="emcee" layer="character" x="8.528706" y="162.8701" scale="1" />
+  <character as="image" path="tachie/extra/crowd.png" px="0.5" py="0.5" w="3558" h="1442" r="1" g="1" b="1" a="1" name="RhC2G" uiname="crowd" layer="character" x="4.437538" y="236.6354" scale="0.5" />
+  <node as="image" path="objects/letter.png" px="0.5" py="0.5" w="500" h="500" r="1" g="1" b="1" a="1" name="W69nr" uiname="letter.png" layer="foreground" x="2.059649" y="412.7111" scale="0.7" />
+  <background as="image" path="bg/album.jpg" px="0.5" py="0.5" w="1136" h="758.28" r="1" g="1" b="1" a="1" name="OwlGU" uiname="album.jpg" layer="background" x="736.7613" y="324.6391" scale="1.3" />
+  <anchor name="dpP9z" uiname="ca_stand_up" x="568" y="380" scale="1" />
+  <background as="image" path="bg/countess_manor_frontdoor.jpg" px="0.5" py="0.5" w="1136" h="852" r="1" g="1" b="1" a="1" name="O648U" uiname="countess_manor_frontrain" layer="background" x="568" y="320" scale="1.2">
+    <node name="jhn2A" uiname="new" x="568" y="455.3339" scale="1.2" />
+    <node as="scroll" speedx="0" speedy="1.5" perspx="0.018" perspy="0.018" scalex="1" scaley="1" name="EFuOT" uiname="new" scale="1">
+      <node as="image" path="scroll_sozai/rain.png" px="0.5" py="0.5" w="972.5933" h="869.5406" r="1" g="1" b="1" a="1" name="kq2AL" uiname="new" x="16.33502" y="37.15588" scale="1" />
+    </node>
+  </background>
+  <anchor name="LMtp9" uiname="ca_face_closeup" x="300" y="420" scale="1.6" />
+  <anchor name="2VVwZ" uiname="ca_face_closeup_move_rt" x="590" y="420" scale="1.6" />
+  <anchor name="F4mGD" uiname="ca_stand_down" x="568" y="240" scale="1" />
+  <node as="image" path="objects/picture.png" px="0.5" py="0.5" w="1136" h="949.6135" r="1" g="1" b="1" a="1" name="oOrdR" uiname="picture.png" layer="foreground" x="-0.902687" y="352.2446" scale="0.5" />
+  <node as="image" path="objects/newspaper.png" px="0.5" py="0.5" w="1064.23" h="846.7259" r="1" g="1" b="1" a="1" name="1aTNV" uiname="newspaper.png" layer="foreground" x="198.9457" y="342.0522" scale="1" />
+  <node as="image" path="objects/ring.png" px="0.5" py="0.5" w="600" h="600" r="1" g="1" b="1" a="1" name="65IA8" uiname="ring.png" layer="foreground" x="-1.604886" y="446.2471" scale="0.4" />
+  <node as="image" path="objects/ring.png" px="0.5" py="0.5" w="600" h="600" r="1" g="1" b="1" a="1" name="Chrdz" uiname="ring2" layer="foreground" x="-1.604886" y="446.2471" scale="0.4" />
+  <node as="image" path="objects/noodle.png" px="0.5" py="0.5" w="527" h="600" r="1" g="1" b="1" a="1" name="vdrQf" uiname="noodle.png" x="3.265176" y="412.7647" scale="0.6" />
+  <background name="polmm" uiname="vomit" layer="background" x="16.74038" y="2.13632" scale="1">
+    <node as="image" path="bg/vomit.jpg" px="0.5" py="0.5" w="960" h="640" r="1" g="1" b="1" a="1" name="DtfH0" uiname="new" x="568" y="320" scale="1" />
+    <node as="scroll" speedx="0" speedy="-0.2" perspx="1E-16" perspy="-0.099" scalex="1" scaley="1" name="Mqu8h" uiname="new" scale="1">
+      <node as="image" path="scroll_sozai/kirakira.png" px="0.5" py="0.5" w="1251.779" h="1152.263" r="1" g="1" b="1" a="1" name="SsSny" uiname="new" x="551.8107" y="284.8153" scale="1" />
+    </node>
+  </background>
+  <character name="rWTrc" uiname="phone" layer="character" x="58.35866" y="-17.65827" scale="1">
+    <node as="dragonbones" path="objects/phone/phone_ske.json" armature="Armature" animation="1_pay" name="M2hP6" uiname="dragon" y="161.8666" scale="1" />
+  </character>
+  <anchor name="OqH7f" uiname="ca_left_0" x="528" y="320" scale="1" />
+</canvas>
